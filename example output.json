@@ -1,0 +1,1022 @@
+[
+  {
+    "timestamp": "2026-06-01T17:08:30.877211",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 38,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:08:40.910356",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 38,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:08:51.213994",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 38,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:09:01.253678",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 37,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:09:11.300330",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 37,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:09:21.538959",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 37,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:09:31.569238",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 37,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:09:41.594848",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 37,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:09:51.620194",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 37,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:10:01.644887",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 37,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:10:12.737922",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 37,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:10:22.881260",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 37,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:10:32.979856",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 37,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:10:43.153282",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 37,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:10:53.248294",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 37,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:11:03.343149",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 37,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:11:13.474287",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 37,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:11:23.601806",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 36,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:11:33.739387",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 36,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:11:43.877208",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 36,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:11:54.014710",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 36,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:12:04.108761",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 36,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:12:14.289158",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 36,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:12:24.428079",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 36,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:12:34.521620",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 36,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:12:44.707181",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 36,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:12:54.840570",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 36,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:13:04.977262",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 36,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:13:15.080419",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 36,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:13:25.253607",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 36,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:13:35.392362",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 35,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:13:45.528768",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 35,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:13:55.666821",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 35,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:14:05.928130",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 35,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:14:16.042751",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 35,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:14:26.182574",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 35,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:14:36.280770",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 35,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:14:46.457449",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 35,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:14:56.595561",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 35,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:15:06.730914",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 35,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:15:16.829567",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 35,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:15:26.925483",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 35,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:15:37.042767",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 35,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:15:47.182933",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 35,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:15:57.318842",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 34,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:16:07.455433",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 34,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:16:17.549407",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 34,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:16:28.033429",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 34,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:16:38.176996",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 34,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:16:48.280768",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 34,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:16:58.386756",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 34,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:17:08.691024",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 34,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:17:18.841134",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 34,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:17:28.968024",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 34,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:17:39.105598",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 34,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:17:49.210819",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 34,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:17:59.585523",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 34,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:18:09.928630",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 33,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:18:20.039519",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 33,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:18:30.072913",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 33,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:18:40.179597",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 33,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:18:50.289764",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 33,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:19:00.412033",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 33,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:19:10.517846",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 33,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:19:20.631150",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 33,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:19:30.723022",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 33,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:19:40.874866",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 33,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:19:50.995393",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 33,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:20:01.101469",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 33,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:20:11.274025",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 33,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:20:21.381326",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 32,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:20:31.556344",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 32,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:20:41.687285",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 32,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:20:51.792462",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 32,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:21:01.903877",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 32,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:21:12.014512",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 32,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:21:22.337211",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 32,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:21:32.477671",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 32,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:21:42.592565",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 32,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:21:52.753254",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 32,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:22:02.867498",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 32,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:22:12.982758",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 32,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:22:23.173678",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 32,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:22:33.304838",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 31,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  },
+  {
+    "timestamp": "2026-06-01T17:22:43.441879",
+    "data": {
+      "hostname": "rohan",
+      "cpu_temp": 27.8,
+      "battery": {
+        "percent": 31,
+        "charging": "Discharging"
+      },
+      "network": {}
+    }
+  }
+]
