@@ -119,8 +119,8 @@ python3 sender.py
 
 ## Future Improvements
 
-- [ ] Web dashboard for live visualization
-- [ ] Database storage (SQLite / InfluxDB)
-- [ ] Multi-device support
-- [ ] Graph plotting system
-- [ ] Systemd service for auto startup
+-  Web dashboard for live visualization
+-  Database storage (SQLite / InfluxDB)
+-  Multi-device support
+-  Graph plotting system
+-  Systemd service for auto startup
