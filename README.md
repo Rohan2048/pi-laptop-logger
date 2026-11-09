@@ -70,7 +70,7 @@ python3 pi_receiver.py
 Run the sender script:
 
 ```bash
-python3 sender.py
+python3 pi_send.py
 ```
 
 > No external libraries required — uses built-in Python modules only.
